@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LevehsteinDistance.dir/main.cpp.o  -o LevehsteinDistance 
