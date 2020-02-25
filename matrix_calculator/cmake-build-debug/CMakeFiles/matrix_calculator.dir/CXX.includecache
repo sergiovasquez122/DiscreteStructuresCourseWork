@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sergio/Desktop/matrix_calculator/Fraction.h
+regex
+-
+iostream
+-
+cassert
+-
+sstream
+-
+
+/home/sergio/Desktop/matrix_calculator/Matrix.h
+Fraction.h
+/home/sergio/Desktop/matrix_calculator/Fraction.h
+vector
+-
+
+/home/sergio/Desktop/matrix_calculator/main.cpp
+iostream
+-
+Fraction.h
+/home/sergio/Desktop/matrix_calculator/Fraction.h
+Matrix.h
+/home/sergio/Desktop/matrix_calculator/Matrix.h
+fstream
+/home/sergio/Desktop/matrix_calculator/fstream
+

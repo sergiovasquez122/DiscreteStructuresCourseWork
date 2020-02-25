@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/matrix_calculator.dir/main.cpp.o CMakeFiles/matrix_calculator.dir/Fraction.cpp.o  -o matrix_calculator 
