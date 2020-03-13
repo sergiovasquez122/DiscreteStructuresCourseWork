@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Solitaire_Prime.dir/main.cpp.o CMakeFiles/Solitaire_Prime.dir/Card.cpp.o CMakeFiles/Solitaire_Prime.dir/Deck.cpp.o  -o Solitaire_Prime 
