@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sergio/Desktop/BigInt/BigInt.cpp
+BigInt.h
+/home/sergio/Desktop/BigInt/BigInt.h
+
+/home/sergio/Desktop/BigInt/BigInt.h
+iostream
+-
+vector
+-
+
+/home/sergio/Desktop/BigInt/main.cpp
+iostream
+-
+map
+-
+BigInt.h
+/home/sergio/Desktop/BigInt/BigInt.h
+
